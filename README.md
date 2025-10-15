@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Query the GraphQL
 
 ## Objective
